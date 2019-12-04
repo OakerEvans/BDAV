@@ -1,1 +1,2 @@
-# BDAVG3
+# Introduction
+This is for BDAV course for University of Warwick
