@@ -1,2 +1,2 @@
 # Introduction
-This is for BDAV course for University of Warwick
+This is for BDAV course of University of Warwick
